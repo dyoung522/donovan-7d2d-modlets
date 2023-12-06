@@ -1,0 +1,4 @@
+<configs>
+  <!-- add additional zombies to the blood horde -->
+  <csv xpath="//entitygroup[starts-with(@name,'feralHordeStageGS') and (contains(text(),'Radiated'))]/text()" delim="\n" op="add">zombieMutated</csv>
+</configs>
