@@ -17,7 +17,8 @@ create_zips() {
 # This script creates the zip files for the release.
 ZIP_DIR="${PWD}/ZIPs"
 
-rm -f "${ZIP_DIR}/*.zip"
+rm -fv "${ZIP_DIR}"/*.zip
+
 create_zips modlets
 create_zips modlets/a-la-carte
 create_zips modlets/optional

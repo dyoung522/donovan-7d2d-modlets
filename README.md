@@ -112,7 +112,6 @@ These are not included in AiO but may be used individually or as overrides to th
 
 ### Other Modlets
 
-- [BetterCollectors](modlets/a-la-carte/donovan-bettercollectors) - Get more water from dew collectors
 - [CraftableDukes](modlets/donovan-craftabledukes) - Allows you to craft Dukes from Brass + Iron in the Forge
 - [CraftableParts](modlets/donovan-craftableparts) - Allows you to craft all weapon and armor parts in the workbench.
 - [ModSchematics](modlets/donovan-modschematics) - Turn mods into schematics
@@ -142,6 +141,7 @@ These are not included in AiO but may be used individually or as overrides to th
 - BetterVehicles - REMOVED in v1.0 due to the game's vehicle overhaul
 - NVHelmetMod - REMOVED in v1.0 due to the game's overhaul of the armor system
 - BetterStart - REMOVED in v1.0 because it interferes with multi-player and, generally speaking, wasn't very useful
+- BetterCollectors - REMOVED in v1.0 as it's no longer needed
 
 ## Additional Credits
 

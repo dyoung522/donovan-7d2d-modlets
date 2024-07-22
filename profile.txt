@@ -15,7 +15,6 @@ https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/modlets/a-la-car
 https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/modlets/a-la-carte/donovan-moreperks
 https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/modlets/a-la-carte/donovan-pickmeup
 https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/modlets/donovan-aio
-https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/modlets/donovan-bettercollectors
 https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/modlets/donovan-bigbackpack
 https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/modlets/donovan-craftabledukes
 https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/modlets/donovan-craftableparts
