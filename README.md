@@ -94,14 +94,12 @@ Note that any of these mods can also be used a-la-carte, we just bundle them tog
 - [BetterDyes](modlets/a-la-carte/donovan-betterdyes) - Allows all colored dyes to be crafted from paint
 - [BetterPowertools](modlets/a-la-carte/donovan-betterpowertools) - Makes the Chainsaw, Auger, and Nailgun way more useful
 - [BetterTraps](modlets/a-la-carte/donovan-bettertraps) - Blade Traps have more health and do slightly more damage
-- [BetterVehicles](modlets/a-la-carte/donovan-bettervehicles) - Bigger and Faster Vehicles; more storage and +25% normal speed (double that in turbo)
 - [LessGrind](modlets/a-la-carte/donovan-lessgrind) - Increases the harvest amount of most methods and reduces some resource requirements
 - [LongerLootbags](modlets/a-la-carte/donovan-longerlootbags) - Decreases the decay rate on zombie lootbags from 5 to 30 minutes
 - [MegaStacks](modlets/a-la-carte/donovan-megastacks) - Vastly increases stack sizes
 - [MoreBooks](modlets/a-la-carte/donovan-morebooks) - Increases the chance of finding books
 - [MoreLootbags](modlets/a-la-carte/donovan-morelootbags) - Increases the drop rates on zombie lootbags (normal: 5%, feral: 10%, irradiated: 20%)
 - [MorePerks](modlets/a-la-carte/donovan-moreperks) - Increases the amount of perks points received per level to 2
-- [NVHelmetMod](modlets/a-la-carte/donovan-nvhelmetmod) - Adds a Night Vision Helmet Mod (found on Military and Swat Helmets)
 - [PickMeUp](modlets/a-la-carte/donovan-pickmeup) - Allows for certain blocks to be picked up after placing.
 
 #### Optional
@@ -115,7 +113,6 @@ These are not included in AiO but may be used individually or as overrides to th
 ### Other Modlets
 
 - [BetterCollectors](modlets/a-la-carte/donovan-bettercollectors) - Get more water from dew collectors
-- [BetterStart](modlets/donovan-betterstart) - Removes the starting quests and gives you basic resources at the start of the game
 - [CraftableDukes](modlets/donovan-craftabledukes) - Allows you to craft Dukes from Brass + Iron in the Forge
 - [CraftableParts](modlets/donovan-craftableparts) - Allows you to craft all weapon and armor parts in the workbench.
 - [ModSchematics](modlets/donovan-modschematics) - Turn mods into schematics
@@ -142,6 +139,9 @@ These are not included in AiO but may be used individually or as overrides to th
 - LootCleanup - REMOVED as of A21 (now incorporated into the base game)
 - Craftables - REMOVED as of A21 due to compatibility issues with the base game
 - LevelFaster - REMOVED as this functionality is now included in game (via Experience %).
+- BetterVehicles - REMOVED in v1.0 due to the game's vehicle overhaul
+- NVHelmetMod - REMOVED in v1.0 due to the game's overhaul of the armor system
+- BetterStart - REMOVED in v1.0 because it interferes with multi-player and, generally speaking, wasn't very useful
 
 ## Additional Credits
 

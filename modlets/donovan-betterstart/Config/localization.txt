@@ -1,3 +1,0 @@
-Key,Source,Context,Changes,English
-quest_BetterStart,Quest,Quest Info,New,Donovan's Better Start
-quest_BetterStartInfo,Quest,Quest Info,New,Donovan's Better Start

@@ -20,14 +20,12 @@ Note that this modlet is NOT compatible with EAC
 - BetterDyes
 - BetterPowertools
 - BetterTraps
-- BetterVehicles
 - LessGrind
 - LongerLootbags
 - MegaStacks
 - MoreBooks
 - MoreLootbags
 - MorePerks
-- NVHelmetMod
 - PickMeUp
 
 ## Additional Credits

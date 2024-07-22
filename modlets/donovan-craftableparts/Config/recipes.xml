@@ -70,12 +70,7 @@
       <ingredient name="resourceDuctTape" count="5"/>
       <ingredient name="resourceMechanicalParts" count="10"/>
     </recipe>
-    <recipe name="armorMilitarySetParts" count="1" craft_area="workbench" tags="workbenchCrafting">
-      <ingredient name="resourceForgedSteel" count="1"/>
-      <ingredient name="resourceDuctTape" count="5"/>
-      <ingredient name="resourceMechanicalParts" count="10"/>
-    </recipe>
-    <recipe name="armorSteelSetParts" count="1" craft_area="workbench" tags="workbenchCrafting">
+    <recipe name="armorParts" count="1" craft_area="workbench" tags="workbenchCrafting">
       <ingredient name="resourceForgedSteel" count="1"/>
       <ingredient name="resourceDuctTape" count="5"/>
       <ingredient name="resourceMechanicalParts" count="10"/>

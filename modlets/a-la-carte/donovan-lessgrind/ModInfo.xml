@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xml>
   <Name value="Donovan_LessGrind" />
   <DisplayName value="Donovan's LessGrind" />
   <Description value="Increases the harvest amount of most resources" />
   <Author value="Donovan" />
-  <Version value="21.2.0" compat="A21" />
+  <Version value="1.0.0" compat="1.0" />
   <Website value="https://github.com/DonovanMods/donovan-7d2d-modlets/tree/stable/modlets/a-la-carte/donovan-lessgrind" />
 </xml>

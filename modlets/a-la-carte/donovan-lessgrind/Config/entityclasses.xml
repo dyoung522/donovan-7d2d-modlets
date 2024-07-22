@@ -24,6 +24,12 @@
   <set xpath="//entity_class[@name='animalBear']/drop[@event='Harvest' and @name='resourceBone' and @tag='butcherHarvest']/@count">63</set>
   <set xpath="//entity_class[@name='animalBear']/drop[@event='Harvest' and @name='resourceBone' and @tag='allToolsHarvest']/@count">13</set>
   <set xpath="//entity_class[@name='animalBear']/drop[@event='Harvest' and @name='resourceTestosteroneExtract' and @tag='butcherHarvest']/@count">5</set>
+  <set xpath="//entity_class[@name='animalBearSmall']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@count">63</set>
+  <set xpath="//entity_class[@name='animalBearSmall']/drop[@event='Harvest' and @name='resourceLeather' and @tag='butcherHarvest']/@count">18</set>
+  <set xpath="//entity_class[@name='animalBearSmall']/drop[@event='Harvest' and @name='resourceAnimalFat' and @tag='butcherHarvest']/@count">8</set>
+  <set xpath="//entity_class[@name='animalBearSmall']/drop[@event='Harvest' and @name='resourceBone' and @tag='butcherHarvest']/@count">30</set>
+  <set xpath="//entity_class[@name='animalBearSmall']/drop[@event='Harvest' and @name='resourceBone' and @tag='allToolsHarvest']/@count">5</set>
+  <set xpath="//entity_class[@name='animalBearSmall']/drop[@event='Harvest' and @name='resourceTestosteroneExtract' and @tag='butcherHarvest']/@count">3</set>
   <set xpath="//entity_class[@name='animalZombieBear']/drop[@event='Harvest' and @name='foodRottingFlesh' and @tag='butcherHarvest']/@count">125</set>
   <set xpath="//entity_class[@name='animalZombieBear']/drop[@event='Harvest' and @name='resourceLeather' and @tag='butcherHarvest']/@count">38</set>
   <set xpath="//entity_class[@name='animalZombieBear']/drop[@event='Harvest' and @name='resourceAnimalFat' and @tag='butcherHarvest']/@count">13</set>
@@ -35,7 +41,7 @@
   <set xpath="//entity_class[@name='animalWolf']/drop[@event='Harvest' and @name='resourceAnimalFat' and @tag='butcherHarvest']/@count">8</set>
   <set xpath="//entity_class[@name='animalWolf']/drop[@event='Harvest' and @name='resourceBone' and @tag='butcherHarvest']/@count">38</set>
   <set xpath="//entity_class[@name='animalWolf']/drop[@event='Harvest' and @name='resourceBone' and @tag='allToolsHarvest']/@count">13</set>
-  <set xpath="//entity_class[@name='animalDireWolf']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@count">88</set>
+  <set xpath="//entity_class[@name='animalDireWolf']/drop[@event='Harvest' and @name='foodRottingFlesh' and @tag='butcherHarvest']/@count">88</set>
   <set xpath="//entity_class[@name='animalDireWolf']/drop[@event='Harvest' and @name='resourceLeather' and @tag='butcherHarvest']/@count">30</set>
   <set xpath="//entity_class[@name='animalDireWolf']/drop[@event='Harvest' and @name='resourceAnimalFat' and @tag='butcherHarvest']/@count">8</set>
   <set xpath="//entity_class[@name='animalDireWolf']/drop[@event='Harvest' and @name='resourceBone' and @tag='butcherHarvest']/@count">38</set>
@@ -76,7 +82,7 @@
   <set xpath="//entity_class[@name='animalBoar']/drop[@event='Harvest' and @name='resourceAnimalFat' and @tag='butcherHarvest']/@count">10</set>
   <set xpath="//entity_class[@name='animalBoar']/drop[@event='Harvest' and @name='resourceBone' and @tag='butcherHarvest']/@count">38</set>
   <set xpath="//entity_class[@name='animalBoar']/drop[@event='Harvest' and @name='resourceBone' and @tag='allToolsHarvest']/@count">13</set>
-  <set xpath="//entity_class[@name='animalBossGrace']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@count">250</set>
+  <set xpath="//entity_class[@name='animalBossGrace']/drop[@event='Harvest' and @name='foodRottingFlesh' and @tag='butcherHarvest']/@count">250</set>
   <set xpath="//entity_class[@name='animalBossGrace']/drop[@event='Harvest' and @name='resourceLeather' and @tag='butcherHarvest']/@count">175</set>
   <set xpath="//entity_class[@name='animalBossGrace']/drop[@event='Harvest' and @name='resourceAnimalFat' and @tag='butcherHarvest']/@count">50</set>
   <set xpath="//entity_class[@name='animalBossGrace']/drop[@event='Harvest' and @name='resourceBone' and @tag='butcherHarvest']/@count">125</set>

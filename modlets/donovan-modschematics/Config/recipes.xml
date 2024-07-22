@@ -276,6 +276,12 @@
       <ingredient name="resourceGlue" count="5"/>
       <ingredient name="resourceLeather" count="2"/>
     </recipe>
+    <recipe name="modArmorQuadStoragePocketSchematic" count="1" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="modArmorQuadStoragePocket" count="1"/>
+      <ingredient name="resourcePaper" count="50"/>
+      <ingredient name="resourceGlue" count="5"/>
+      <ingredient name="resourceLeather" count="2"/>
+    </recipe>
     <recipe name="modArmorMuffledConnectorsSchematic" count="1" craft_area="workbench" tags="workbenchCrafting">
       <ingredient name="modArmorMuffledConnectors" count="1"/>
       <ingredient name="resourcePaper" count="50"/>
@@ -380,6 +386,18 @@
     </recipe>
     <recipe name="modVehicleReserveFuelTankSchematic" count="1" craft_area="workbench" tags="workbenchCrafting">
       <ingredient name="modVehicleReserveFuelTank" count="1"/>
+      <ingredient name="resourcePaper" count="50"/>
+      <ingredient name="resourceGlue" count="5"/>
+      <ingredient name="resourceLeather" count="2"/>
+    </recipe>
+    <recipe name="modVehiclePlowSchematic" count="1" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="modVehiclePlow" count="1"/>
+      <ingredient name="resourcePaper" count="50"/>
+      <ingredient name="resourceGlue" count="5"/>
+      <ingredient name="resourceLeather" count="2"/>
+    </recipe>
+    <recipe name="modVehicleArmorSchematic" count="1" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="modVehicleArmor" count="1"/>
       <ingredient name="resourcePaper" count="50"/>
       <ingredient name="resourceGlue" count="5"/>
       <ingredient name="resourceLeather" count="2"/>
