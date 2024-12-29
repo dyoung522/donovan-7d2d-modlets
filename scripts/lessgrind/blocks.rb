@@ -20,8 +20,7 @@ module LessGrind
 
     def multiplier(name)
       return @default_multiplier if name.match?(/^tree(Stump|Cactus)/)
-      return @default_multiplier * 2 if name.match?(/^(terr)/)
-      return @default_multiplier * 4 if name.match?(/^(ore|rock|tree|woodLogPillar)/)
+      return @default_multiplier * 2 if name.match?(/^(terr|ore|rock|tree|woodLogPillar)/)
 
       @default_multiplier
     end
