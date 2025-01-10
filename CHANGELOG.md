@@ -4,6 +4,11 @@
 
 Also, if you want to see what's coming up, check out the [Develop] branch.
 
+## [v1.2.0]
+
+- Convert all modlets to Game Version 1.2
+- Make LessGrind slightly less OP
+
 ## [v21.1.6]
 
 ### Added

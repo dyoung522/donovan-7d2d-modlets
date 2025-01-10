@@ -32,7 +32,8 @@ class Version
   end
 end
 
-options = Options.new(verbose: 0)
+options = Options.new
+options.verbose = 0
 
 opt_parser = OptionParser.new do |opts|
   opts.banner = "Usage: vbump [options] <modlet>"
